@@ -13,13 +13,18 @@
 
 
 i=1
-while i<=10:
+while i<5:
     num=int(input("enter the number:"))
     if num==5:
-        print("you win")
+        print(" congratulation! you win")
         break
     elif num<5:
-        print("number entered is small try one more time")
+        print("number entered is small") 
+        print("try one more time")
+        print(5-i,"chance remain")
     else:
-        print("number entered is greater try one more time")
-i+=1
+        print("number entered is greater") 
+        print("try one more time")
+        print(5-i,"chance remain")
+    i+=1
+
