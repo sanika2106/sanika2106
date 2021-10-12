@@ -5,10 +5,9 @@ for x in fruit:
      break
 
 
-fruit=["apple","banana","cherry"]
-for x in fruit:
-    if x=="banana":
-     break
-    print(x)
-   
+# fruit=["apple","banana","cherry"]
+# for x in fruit:
+#     if x=="banana":
+#      break
+#     print(x)
    

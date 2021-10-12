@@ -10,17 +10,19 @@
 # Hint :
 # Study about break statement`` in python.
 
-i=1
-while i<=5:
-    num=int(input("enter the number:"))
-    if num==5:
-        print(" congratulations!,you win!")
-        break
-    else:
-        print("you loss!")
-        print(5-i, "chance remain!")
-        print("try again!")
-    i+=1
+# i=1
+# while i<=5:
+#     num=int(input("enter the number:"))
+#     if num==5:
+#         print("congratulations!,you win!")
+#         break
+#     else:
+#         print("you loss!")
+#         print(5-i, "chance remain!")
+#         print("try again!")
+#     i+=1
 
 
 
+a="shruti"
+print(a+5)

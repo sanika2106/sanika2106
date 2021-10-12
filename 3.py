@@ -9,16 +9,16 @@
 #     print(a)
 #     i+=1
 #    or
-# i=1
-# sum=0
-# while i<=100:
-#     sum=sum+i
-#     i+=1
-# print(sum)
-
-i=50
+i=1
 sum=0
 while i<=100:
-    sum+=i
+    sum=sum+i
     i+=1
 print(sum)
+
+# i=50
+# sum=0
+# while i<=100:
+#     sum+=i
+#     i+=1
+# print(sum)

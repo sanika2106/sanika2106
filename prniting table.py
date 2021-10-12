@@ -5,3 +5,4 @@ while i<=10:
   print(num,"*",i,"=",num*i)
 #   print(i*num)
   i+=1
+
